@@ -29,8 +29,8 @@ global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which wi
 global.websitex = "https://telegra.ph/file//b9212896-7481-4b38-9130-e97604c44a0c.jpg.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
-global.author = "⍣01098906252⍣" //ur sticker watermark author
+global.packname = "⍣ المصمم كيان الشيخ⍣" //ur sticker watermark packname
+global.author = "⍣772457564⍣" //ur sticker watermark author
 global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
 
 // Other
